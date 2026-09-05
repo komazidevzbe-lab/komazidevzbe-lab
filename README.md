@@ -18,71 +18,95 @@
 
 <br>
 
-<h2 align="center">✨ About Me</h2>
+<br>
 
-<div align="center">
+## 👤 About Me
 
-🎓 BSc Information Technology • BSc Honours Computer Science & Informatics
+I'm a Computer Science graduate who enjoys building web applications, working with data, and turning ideas into practical digital solutions. I enjoy learning new technologies, solving problems, and creating user-focused experiences.
 
-💻 Junior Software Developer passionate about building practical, user-focused applications
+<table>
+<tr>
+<td width="25%">
 
-📊 Growing my skills in Data Analytics and working toward Data Engineering
+🎓 **BSc IT**  
+Honours CS & Informatics
 
-🌱 Currently learning **Python • Power BI • Data Analytics • Cloud Technologies**
+</td>
+<td width="25%">
 
-🚀 Building with **C# • ASP.NET Core • Angular • SQL**
+💻 **Junior Software Developer**  
+Building full-stack applications
 
-💡 I enjoy turning ideas and real-world problems into useful digital solutions
+</td>
+<td width="25%">
 
-📍 South Africa
+📊 **Data Analytics**  
+Working toward Data Engineering
 
-</div>
+</td>
+<td width="25%">
+
+🌱 **Always Learning**  
+Building • Improving • Growing
+
+</td>
+</tr>
+</table>
 
 <br>
 
+## ⚙️ Tech Stack
 
-<br>
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cs,js,ts,python,kotlin,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts,python,kotlin,html,css&perline=7" />
 
-<br><br>
+</td>
 
-### ⚙️ Frameworks & Development
+<td valign="top" width="45%">
 
-<img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap" />
+### 🧩 Frameworks & Development
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap&perline=3" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28" />
 
-<br><br>
+</td>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-<br><br>
+<td valign="top">
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github&perline=4" />
 
-<br><br>
+</td>
+</tr>
 
-### 🧰 Tools
+<tr>
+<td colspan="2">
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,androidstudio" />
+### 🛠️ Tools & Design
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,androidstudio&perline=5" />
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
