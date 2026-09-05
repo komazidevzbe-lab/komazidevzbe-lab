@@ -265,33 +265,32 @@ Personal developer portfolio showcasing my projects, skills, technologies and pr
 
 <br>
 
+## 🌐 Connect With Me
 
-## 📊 GitHub Stats
+<p align="left">
 
-<table>
-<tr>
+<a href="https://www.linkedin.com/in/zbekomazi232">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<td width="50%" align="center" valign="top">
+<a href="mailto:komazi.job@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=komazidevzbe-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
-  width="100%"
-  alt="GitHub Stats"
-/>
+<a href="https://portfolio-zbe-app-drhbcfa8f0a7etgq.southafricanorth-01.azurewebsites.net/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-</td>
+<a href="https://github.com/komazidevzbe-lab">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<td width="50%" align="center" valign="top">
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=komazidevzbe-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  width="100%"
-  alt="Top Languages"
-/>
+<br>
 
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <b>✨ Build • Learn • Create • Grow ✨</b>
+</p>
 
 <br>
