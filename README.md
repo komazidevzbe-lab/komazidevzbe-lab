@@ -17,8 +17,6 @@
 
 <br>
 
-<br>
-
 ## 👤 About Me
 
 I'm a Computer Science graduate who enjoys building web applications, working with data, and turning ideas into practical digital solutions. I enjoy learning new technologies, solving problems, and creating user-focused experiences.
