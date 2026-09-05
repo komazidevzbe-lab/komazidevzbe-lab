@@ -171,7 +171,7 @@ I'm a Computer Science graduate who enjoys building web applications, working wi
 </td>
 
 <td align="center" valign="middle" style="white-space: nowrap;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="36" height="36" alt="Power BI" />
+<img src="https://img.icons8.com/color/48/power-bi.png" width="36" height="36" alt="Power BI" />
 <br>
 <sub><b>Power&nbsp;BI</b></sub>
 </td>
