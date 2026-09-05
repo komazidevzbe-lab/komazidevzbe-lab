@@ -222,6 +222,15 @@ Full-stack booking platform for a nail and makeup business, with customer accoun
 <td width="50%" valign="top">
 
 ### 🛍️ ZivaFit
+**Activewear E-Commerce Platform**
+
+<a href="https://github.com/komazidevzbe-lab/zivafit">
+  <img
+    src="https://raw.githubusercontent.com/komazidevzbe-lab/zivafit/main/screenshots/LandingPageLoggedIn.png"
+    alt="ZivaFit logged-in customer experience"
+    width="100%"
+  />
+</a>
 
 Full-stack women-focused activewear e-commerce platform with product browsing, accounts, cart, checkout, orders and admin management.
 
