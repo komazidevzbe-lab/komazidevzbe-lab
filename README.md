@@ -39,3 +39,50 @@
 </div>
 
 <br>
+
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cs,js,ts,python,kotlin,html,css" />
+
+<br><br>
+
+### ⚙️ Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
+
+<br><br>
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,androidstudio" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
+
+<br>
