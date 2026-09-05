@@ -59,53 +59,131 @@ Building • Improving • Growing
 
 <table>
 <tr>
-<td valign="top" width="55%">
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=cs,js,ts,python,kotlin,html,css&perline=7" />
-
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=cs" width="38" height="38" />
+<br>
+<sub><b>C#</b></sub>
 </td>
 
-<td valign="top" width="45%">
-
-### 🧩 Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap&perline=3" />
-
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=dotnet" width="38" height="38" />
+<br>
+<sub><b>.NET</b></sub>
 </td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=angular" width="38" height="38" />
+<br>
+<sub><b>Angular</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=ts" width="38" height="38" />
+<br>
+<sub><b>TypeScript</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=js" width="38" height="38" />
+<br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=html" width="38" height="38" />
+<br>
+<sub><b>HTML5</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=css" width="38" height="38" />
+<br>
+<sub><b>CSS3</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=python" width="38" height="38" />
+<br>
+<sub><b>Python</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="38" height="38" />
+<br>
+<sub><b>SQL Server</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=mysql" width="38" height="38" />
+<br>
+<sub><b>MySQL</b></sub>
+</td>
+
 </tr>
 
 <tr>
-<td valign="top">
 
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql" height="40" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28" />
-
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=azure" width="38" height="38" />
+<br>
+<sub><b>Azure</b></sub>
 </td>
 
-<td valign="top">
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github&perline=4" />
-
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=docker" width="38" height="38" />
+<br>
+<sub><b>Docker</b></sub>
 </td>
-</tr>
 
-<tr>
-<td colspan="2">
-
-### 🛠️ Tools & Design
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,androidstudio&perline=5" />
-&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" />
-
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=git" width="38" height="38" />
+<br>
+<sub><b>Git</b></sub>
 </td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=github" width="38" height="38" />
+<br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=postman" width="38" height="38" />
+<br>
+<sub><b>Postman</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=figma" width="38" height="38" />
+<br>
+<sub><b>Figma</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=vscode" width="38" height="38" />
+<br>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="38" height="38" />
+<br>
+<sub><b>Power BI</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=kotlin" width="38" height="38" />
+<br>
+<sub><b>Kotlin</b></sub>
+</td>
+
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="38" height="38" />
+<br>
+<sub><b>Android Studio</b></sub>
+</td>
+
 </tr>
 </table>
 
