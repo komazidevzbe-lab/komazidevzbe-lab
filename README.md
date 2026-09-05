@@ -15,7 +15,6 @@
 
 </div>
 
-
 <br>
 
 <br>
@@ -26,30 +25,35 @@ I'm a Computer Science graduate who enjoys building web applications, working wi
 
 <table>
 <tr>
-<td width="25%">
 
-🎓 **BSc IT**  
-Honours CS & Informatics
+<td width="22%" valign="top">
 
-</td>
-<td width="25%">
-
-💻 **Junior Software Developer**  
-Building full-stack applications
+🎓 <b>BSc IT</b><br>
+<span>Honours CS &amp; Informatics</span>
 
 </td>
-<td width="25%">
 
-📊 **Data Analytics**  
-Working toward Data Engineering
+<td width="28%" valign="top">
 
-</td>
-<td width="25%">
-
-🌱 **Always Learning**  
-Building • Improving • Growing
+💻 <b>Junior Software Developer</b><br>
+<span>Building full-stack applications</span>
 
 </td>
+
+<td width="25%" valign="top">
+
+📊 <b>Data Analytics</b><br>
+<span>Working toward Data Engineering</span>
+
+</td>
+
+<td width="25%" valign="top">
+
+🌱 <b>Always Learning</b><br>
+<span>Building • Improving • Growing</span>
+
+</td>
+
 </tr>
 </table>
 
@@ -60,62 +64,62 @@ Building • Improving • Growing
 <table>
 <tr>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=cs" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=cs" width="36" height="36" />
 <br>
 <sub><b>C#</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=dotnet" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=dotnet" width="36" height="36" />
 <br>
 <sub><b>.NET</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=angular" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=angular" width="36" height="36" />
 <br>
 <sub><b>Angular</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=ts" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=ts" width="36" height="36" />
 <br>
 <sub><b>TypeScript</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=js" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=js" width="36" height="36" />
 <br>
 <sub><b>JavaScript</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=html" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=html" width="36" height="36" />
 <br>
 <sub><b>HTML5</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=css" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=css" width="36" height="36" />
 <br>
 <sub><b>CSS3</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=python" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=python" width="36" height="36" />
 <br>
 <sub><b>Python</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="38" height="38" />
+<td align="center" valign="middle" style="white-space: nowrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="36" height="36" />
 <br>
-<sub><b>SQL Server</b></sub>
+<sub><b>SQL&nbsp;Server</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=mysql" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" />
 <br>
 <sub><b>MySQL</b></sub>
 </td>
@@ -124,64 +128,64 @@ Building • Improving • Growing
 
 <tr>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=azure" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=azure" width="36" height="36" />
 <br>
 <sub><b>Azure</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=docker" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=docker" width="36" height="36" />
 <br>
 <sub><b>Docker</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=git" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=git" width="36" height="36" />
 <br>
 <sub><b>Git</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=github" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=github" width="36" height="36" />
 <br>
 <sub><b>GitHub</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=postman" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=postman" width="36" height="36" />
 <br>
 <sub><b>Postman</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=figma" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=figma" width="36" height="36" />
 <br>
 <sub><b>Figma</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=vscode" width="38" height="38" />
+<td align="center" valign="middle" style="white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" />
 <br>
-<sub><b>VS Code</b></sub>
+<sub><b>VS&nbsp;Code</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="38" height="38" />
+<td align="center" valign="middle" style="white-space: nowrap;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="36" height="36" alt="Power BI" />
 <br>
-<sub><b>Power BI</b></sub>
+<sub><b>Power&nbsp;BI</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=kotlin" width="38" height="38" />
+<td align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=kotlin" width="36" height="36" />
 <br>
 <sub><b>Kotlin</b></sub>
 </td>
 
-<td align="center" width="10%">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="38" height="38" />
+<td align="center" valign="middle" style="white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="36" height="36" />
 <br>
-<sub><b>Android Studio</b></sub>
+<sub><b>Android&nbsp;Studio</b></sub>
 </td>
 
 </tr>
