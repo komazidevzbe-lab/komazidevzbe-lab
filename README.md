@@ -14,3 +14,28 @@
 />
 
 </div>
+
+
+<br>
+
+<h2 align="center">✨ About Me</h2>
+
+<div align="center">
+
+🎓 BSc Information Technology • BSc Honours Computer Science & Informatics
+
+💻 Junior Software Developer passionate about building practical, user-focused applications
+
+📊 Growing my skills in Data Analytics and working toward Data Engineering
+
+🌱 Currently learning **Python • Power BI • Data Analytics • Cloud Technologies**
+
+🚀 Building with **C# • ASP.NET Core • Angular • SQL**
+
+💡 I enjoy turning ideas and real-world problems into useful digital solutions
+
+📍 South Africa
+
+</div>
+
+<br>
