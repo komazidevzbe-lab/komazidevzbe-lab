@@ -266,3 +266,25 @@ Personal developer portfolio showcasing my projects, skills, technologies and pr
 <br>
 
 <br>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=komazidevzbe-lab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="165"
+  alt="Zintle Komazi GitHub stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=komazidevzbe-lab&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="Most used languages"
+/>
+
+</div>
+
+<br>
