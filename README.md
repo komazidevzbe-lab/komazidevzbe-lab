@@ -249,14 +249,19 @@ Full-stack women-focused activewear e-commerce platform with product browsing, a
 <td width="50%" valign="top">
 
 ### ✨ The Luxury Edit
+**Luxury Event Planning Website**
+
+<img
+  src="https://raw.githubusercontent.com/komazidevzbe-lab/komazidevzbe-lab/main/TheLuxuryEditPreviewImage.png"
+  alt="The Luxury Edit project preview"
+  width="100%"
+/>
 
 Event-planning platform featuring curated experiences, journal content, enquiries and administrative management.
 
 **Tech:** Angular • ASP.NET Core • SQL Server
 
-<a href="https://github.com/komazidevzbe-lab/theluxuryedit">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Private_Project-In_Progress-C8A97E?style=flat-square" />
 
 </td>
 
