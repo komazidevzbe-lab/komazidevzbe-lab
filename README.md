@@ -208,10 +208,6 @@ Full-stack booking platform for a nail and makeup business, with customer accoun
   <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<a href="https://mosalon-app.azurewebsites.net/">
-  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white" />
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -258,7 +254,7 @@ Personal developer portfolio showcasing my projects, skills, technologies and pr
   <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<a href="https://zbe-portfolio-app.azurewebsites.net/">
+<a href="https://portfolio-zbe-app-drhbcfa8f0a7etgq.southafricanorth-01.azurewebsites.net/">
   <img src="https://img.shields.io/badge/Live_Website-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white" />
 </a>
 
