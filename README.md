@@ -199,6 +199,15 @@ I'm a Computer Science graduate who enjoys building web applications, working wi
 <td width="50%" valign="top">
 
 ### 💅 Mo Salon
+**Salon Booking System**
+
+<a href="https://github.com/komazidevzbe-lab/mosalondraft">
+  <img
+    src="https://raw.githubusercontent.com/komazidevzbe-lab/mosalondraft/main/screenshots/LandingPage1.png"
+    alt="Mo Salon project preview"
+    width="100%"
+  />
+</a>
 
 Full-stack booking platform for a nail and makeup business, with customer accounts, service browsing, bookings and admin management.
 
