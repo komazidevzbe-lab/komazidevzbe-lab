@@ -254,6 +254,15 @@ Event-planning platform featuring curated experiences, journal content, enquirie
 <td width="50%" valign="top">
 
 ### 💻 Portfolio Website
+**Personal Portfolio Website**
+
+<a href="https://github.com/komazidevzbe-lab/portfolio">
+  <img
+    src="https://raw.githubusercontent.com/komazidevzbe-lab/portfolio/main/screenshots/ProjectPage1.png"
+    alt="Portfolio Website project preview"
+    width="100%"
+  />
+</a>
 
 Personal developer portfolio showcasing my projects, skills, technologies and professional journey.
 
