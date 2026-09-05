@@ -190,3 +190,83 @@ I'm a Computer Science graduate who enjoys building web applications, working wi
 </table>
 
 <br>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💅 Mo Salon
+
+Full-stack booking platform for a nail and makeup business, with customer accounts, service browsing, bookings and admin management.
+
+**Tech:** Angular • ASP.NET Core • SQL Server • Docker • Azure
+
+<a href="https://github.com/komazidevzbe-lab/mosalondraft">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<a href="https://mosalon-app.azurewebsites.net/">
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛍️ ZivaFit
+
+Full-stack women-focused activewear e-commerce platform with product browsing, accounts, cart, checkout, orders and admin management.
+
+**Tech:** Angular • ASP.NET Core • SQL Server
+
+<a href="https://github.com/komazidevzbe-lab/zivafit">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ✨ The Luxury Edit
+
+Event-planning platform featuring curated experiences, journal content, enquiries and administrative management.
+
+**Tech:** Angular • ASP.NET Core • SQL Server
+
+<a href="https://github.com/komazidevzbe-lab/theluxuryedit">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Portfolio Website
+
+Personal developer portfolio showcasing my projects, skills, technologies and professional journey.
+
+**Tech:** Angular • TypeScript • HTML • CSS
+
+<a href="https://github.com/komazidevzbe-lab/portfolio">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<a href="https://zbe-portfolio-app.azurewebsites.net/">
+  <img src="https://img.shields.io/badge/Live_Website-7C3AED?style=flat-square&logo=microsoftazure&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<br>
